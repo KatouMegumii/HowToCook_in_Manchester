@@ -17,10 +17,16 @@
 
 如果你实在是没有了解，我也不知道该怎么办，也许可以参考[HowToCook](https://github.com/Anduin2017/HowToCook)的内容
 
+此外本菜谱假设你已经拥有了普遍使用的调味料和处理食材的固体或液体，包括但不限于且可以不全有：
+
+`食用油` `饮用水` `盐` `糖` `味精` `淀粉` `各种香料` `五香粉` `白胡椒粉` `黑胡椒碎` `生抽` `老抽` `料酒` `蚝油` `豆瓣酱`
+
 ---
 <h2 id="1">菜谱</h2> 
 
 ***每道菜后会有个人评价和简短评述，满分五颗星***  
 
 [青椒炒肉](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E9%9D%92%E6%A4%92%E7%82%92%E8%82%89.md)⭐⭐⭐⭐⭐太下饭了
+
+[水煮肉片](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87.md)⭐⭐⭐⭐⭐个人喜好
 
