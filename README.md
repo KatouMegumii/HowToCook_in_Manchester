@@ -26,15 +26,15 @@
 ---
 <h2 id="2">买菜指南</h2>  
 
-***请直接拉到页面最后查看 附加内容 的部分***
+***请查看 附加内容***
 
-[五花肉 Pork Belly](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87.md)
+[五花肉 Pork Belly](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87.md#%E9%99%84%E5%8A%A0%E5%86%85%E5%AE%B9)
 
-[大白菜/白菜/大一点的娃娃菜](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87.md)
+[大白菜/白菜/大一点的娃娃菜](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87.md#%E9%99%84%E5%8A%A0%E5%86%85%E5%AE%B9)
 
-[老豆腐/嫩豆腐](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E5%AE%B6%E5%B8%B8%E8%B1%86%E8%85%90%E7%85%B2.md)
+[老豆腐/嫩豆腐](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E5%AE%B6%E5%B8%B8%E8%B1%86%E8%85%90%E7%85%B2.md#%E9%99%84%E5%8A%A0%E5%86%85%E5%AE%B9)
 
-[瘦肉/切肉丝的猪肉 Pork Shoulder Steak](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E9%9D%92%E6%A4%92%E7%82%92%E8%82%89.md)
+[瘦肉/切肉丝的猪肉 Pork Shoulder Steak](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E9%9D%92%E6%A4%92%E7%82%92%E8%82%89.md#%E9%99%84%E5%8A%A0%E5%86%85%E5%AE%B9)
 
 ---
 <h2 id="1">菜谱</h2> 
