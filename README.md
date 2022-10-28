@@ -28,7 +28,8 @@
 
 ***每道菜后会有个人评价和简短评述，满分五颗星***  
 
-[青椒炒肉](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E9%9D%92%E6%A4%92%E7%82%92%E8%82%89.md)⭐⭐⭐⭐⭐太下饭了
+[青椒炒肉](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E9%9D%92%E6%A4%92%E7%82%92%E8%82%89.md)⭐⭐⭐⭐⭐经典下饭菜
 
-[水煮肉片](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87.md)⭐⭐⭐⭐⭐个人喜好
+[水煮肉片](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87.md)⭐⭐⭐⭐⭐能吃辣的朋友值得一试
 
+[家常豆腐煲](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E5%AE%B6%E5%B8%B8%E8%B1%86%E8%85%90%E7%85%B2.md)⭐⭐⭐⭐冬天吃很适合但是煎豆腐太麻烦了
