@@ -1,6 +1,6 @@
 # HowToCook_in_Manchester
 
-[~~以下废话太长不看请点这里~~](#1)
+[~~以下废话不看直接看菜谱请点这里~~](#1)   |   [~~以下废话不看直接看买原料的地方和价格请点这里~~](#2)
 
 来曼城已经接近两个月，本人也逐渐找到了做饭的乐趣，经常在各大平台寻找学习制作看起来好吃又不难的菜，为了防止本人遗忘这些菜的做法亦或是某天实在想不到吃什么，所以我基于大名鼎鼎的[HowToCook](https://github.com/Anduin2017/HowToCook)制作了这本极具 ***个人做饭特色*** 的 ~~糊弄型~~ 菜谱。  
 
@@ -22,6 +22,19 @@
 此外本菜谱假设你已经拥有了普遍使用的调味料和处理食材的固体或液体，包括但不限于且可以不全有：
 
 `食用油` `饮用水` `盐` `糖` `味精` `淀粉` `各种香料` `五香粉` `白胡椒粉` `黑胡椒碎` `生抽` `老抽` `料酒` `蚝油` `豆瓣酱`
+
+---
+<h2 id="2">买菜指南</h2>  
+
+***请直接拉到页面最后查看 附加内容 的部分***
+
+[五花肉Pork Belly](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87.md)
+
+[大白菜/白菜/大一点的娃娃菜](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87.md)
+
+[老豆腐/嫩豆腐](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E5%AE%B6%E5%B8%B8%E8%B1%86%E8%85%90%E7%85%B2.md)
+
+[瘦肉/切肉丝的猪肉 Pork Shoulder Steak](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E9%9D%92%E6%A4%92%E7%82%92%E8%82%89.md)
 
 ---
 <h2 id="1">菜谱</h2> 
