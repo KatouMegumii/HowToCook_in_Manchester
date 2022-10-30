@@ -23,7 +23,7 @@
 
 此外本菜谱假设你已经拥有了普遍使用的调味料和处理食材的固体或液体，包括但不限于且可以不全有：
 
-`食用油` `饮用水` `盐` `糖` `味精` `淀粉` `各种香料` `五香粉` `白胡椒粉` `黑胡椒碎` `生抽` `老抽` `料酒` `蚝油` `豆瓣酱`
+`食用油` `饮用水` `盐` `糖` `味精` `淀粉` `各种香料` `五香粉` `白胡椒粉` `黑胡椒碎` `生抽` `老抽` `料酒` `蚝油` `豆瓣酱` `冰糖`
 
 ---
 <h2 id="2">买菜指南</h2>  
@@ -32,19 +32,21 @@
 
 [五花肉 Pork Belly](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87.md#%E9%99%84%E5%8A%A0%E5%86%85%E5%AE%B9)
 
-[大白菜/白菜/大一点的娃娃菜](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87.md#%E9%99%84%E5%8A%A0%E5%86%85%E5%AE%B9)
+[大白菜/白菜 Chinese Leaf](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87.md#%E9%99%84%E5%8A%A0%E5%86%85%E5%AE%B9)
 
-[老豆腐/嫩豆腐](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E5%AE%B6%E5%B8%B8%E8%B1%86%E8%85%90%E7%85%B2.md#%E9%99%84%E5%8A%A0%E5%86%85%E5%AE%B9)
+[老豆腐/嫩豆腐 Tofu](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E5%AE%B6%E5%B8%B8%E8%B1%86%E8%85%90%E7%85%B2.md#%E9%99%84%E5%8A%A0%E5%86%85%E5%AE%B9)
 
 [瘦肉/切肉丝的猪肉 Pork Shoulder Steak](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E9%9D%92%E6%A4%92%E7%82%92%E8%82%89.md#%E9%99%84%E5%8A%A0%E5%86%85%E5%AE%B9)
+
+[青椒 Pepper & Chilli](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E9%9D%92%E6%A4%92%E7%82%92%E8%82%89.md#%E9%99%84%E5%8A%A0%E5%86%85%E5%AE%B9)
 
 ---
 <h2 id="1">菜谱</h2> 
 
-***每道菜后会有个人评价和简短评述，满分五颗星***  
+***每道菜会按照 味道 / 复杂度 打分，评分越高味道越好越简单易做***  
 
-[青椒炒肉](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E9%9D%92%E6%A4%92%E7%82%92%E8%82%89.md)⭐⭐⭐⭐⭐经典下饭菜
+[青椒炒肉&emsp;](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E9%9D%92%E6%A4%92%E7%82%92%E8%82%89.md) **味道** ⭐⭐⭐⭐⭐ **复杂度** ⭐⭐⭐⭐⭐
 
-[水煮肉片](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87.md)⭐⭐⭐⭐⭐能吃辣的朋友值得一试
+[水煮肉片&emsp;](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E6%B0%B4%E7%85%AE%E8%82%89%E7%89%87.md) **味道** ⭐⭐⭐⭐⭐ **复杂度** ⭐⭐⭐⭐⭐
 
-[家常豆腐煲](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E5%AE%B6%E5%B8%B8%E8%B1%86%E8%85%90%E7%85%B2.md)⭐⭐⭐⭐冬天吃很适合但是煎豆腐太麻烦了
+[家常豆腐煲](https://github.com/KatouMegumii/HowToCook_in_Manchester/blob/master/%E8%8F%9C%E8%B0%B1%E6%9C%AC%E4%BD%93/%E5%AE%B6%E5%B8%B8%E8%B1%86%E8%85%90%E7%85%B2.md) **味道** ⭐⭐⭐⭐⭐ **复杂度** ⭐⭐⭐
